@@ -1,4 +1,4 @@
-### cloudguard-iac-noncompliant-terraform
+# cloudguard-iac-noncompliant-terraform
 
 ## Description
 
